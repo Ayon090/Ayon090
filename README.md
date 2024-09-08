@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)]
 <h1 align="center">Hi 👋, I'm Kaiyum</h1>
-<h3 align="center">My surname is Ayon, You can address me by this name.</h3>
+<h3 align="center">My nickname is Ayon, You can address me by this name.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
