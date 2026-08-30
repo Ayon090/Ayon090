@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayon778" target="blank"><img src="https://img.shields.io/twitter/follow/ayon778?logo=twitter&style=for-the-badge" alt="ayon778" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+
 
 - 📫 Mail me at **ayon2003bd@gmail.com**
 
